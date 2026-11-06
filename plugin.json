@@ -1,0 +1,18 @@
+{
+  "name": "hireko-recruiter",
+  "displayName": "Hireko AI Recruiter",
+  "version": "1.0.0",
+  "description": "Hireko AI Recruiter empowers talent teams with automated candidate analytics, AI-powered interview link generation, and semantic candidate search scorecards.",
+  "logo": "assets/logo.png",
+  "author": {
+    "name": "Hireko",
+    "url": "https://hireko.ai"
+  },
+  "homepage": "https://hireko.ai",
+  "repository": "https://github.com/jishnusaireddy/hireko-grok-marketplace",
+  "suggestedPrompts": [
+    "Show candidate interview counts and pass rates",
+    "Create candidate interview link for Senior Engineer",
+    "Search candidates for Java Spring Boot and Microservices"
+  ]
+}
